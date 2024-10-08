@@ -43,9 +43,6 @@ npm start
 
 Enjoy!
 
-# Additional Feature
-We chose to implement react notifications to replace our alerts as well as sorting functionality for our ratings table. In order to utilize react notifications we installed and imported the react notification library and made use of the built-in functions to create functionality within our components. For our sorting, we enable users to sort ratings alphabetically by artist name or song name, as well as highest rating to lowest rating.
-
 # MVC Architecture
 ```bash
 ├── Controller
